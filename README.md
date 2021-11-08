@@ -8,9 +8,9 @@ GITHUB LINK: https://github.com/Vijaydwivedi10/CS203_project.git
 >Added the pos_decode module (decodes the position of player and computer from psoition bits)
 >Added the finish module (checks if all the places are filled)
 >Added the re_block module (throws error if the block is pressed again == illegal move)
->Added the controller module (control the tic tac toe game according to the current state)
->Added the winner module (tells which is the winner)
 
 *TASKS LEFT* :
 >Addition of testbench
 >Completing the codes of each of the written modules
+>Addition of controller module (control the tic tac toe game according to the current state)
+>Addition of winner module (tells which is the winner)
